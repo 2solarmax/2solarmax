@@ -8,6 +8,25 @@ Building Mokka. We offload resume reviews and screening calls to AI.
 
 Writing Go, orchestrating LLMs, and deleting more code than I maintain. SSOT or nothing. 
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/maxkras" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://gomokka.com" target="_blank">
+    <img src="https://img.shields.io/badge/Mokka-10B981?style=for-the-badge&logo=hyper&logoColor=white" alt="Gomokka" />
+  </a>
+</div>
+
+<br/>
+
+### Tech Stack
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,ts,python,react,postgres,docker,kubernetes,gcp&theme=dark" alt="Tech Stack" />
+  </a>
+</div>
+
 <br/>
 
 <div align="center">
